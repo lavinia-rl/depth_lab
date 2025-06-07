@@ -1,6 +1,8 @@
 # DepthLab
 
-![Setup](oak-d.jpeg)
+<p align="center">
+  <img src="oak-d.jpeg" width="400" />
+</p>
 
 Personal experiments in Computer Vision using DepthAI with an OAK-D camera, focusing on basic depth sensing and stereo vision.
 
